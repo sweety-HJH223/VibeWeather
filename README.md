@@ -12,3 +12,6 @@ Features:
 - Full Korean/English language toggle
 - Responsive design for all devices
 - 5 day forecast
+
+## 👩‍💻 Built By
+**SweetyCodes** — [sweetycodes-jh.vercel.app](https://sweetycodes-jh.vercel.app/)
