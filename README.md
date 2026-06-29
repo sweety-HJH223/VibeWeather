@@ -3,7 +3,6 @@
 A weather app that actually tells you what you need to know — not just temperature, but whether you should grab an umbrella, skip the run, or check the pollen count before heading out. Fully bilingual in Korean and English, with a clean UI that adapts to whatever city you're searching.
 
 **Live Demo:** [vibe-weather-kr-en.vercel.app](https://vibe-weather-kr-en.vercel.app/)
-**Mirror:** [sweety-hjh223.github.io/toggle-weather](https://sweety-hjh223.github.io/toggle-weather/)
 
 ---
 
