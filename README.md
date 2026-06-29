@@ -138,26 +138,54 @@ const API_KEY = "your_openweathermap_api_key_here";
 
 ## Project Structure
 
-```
-toggle-weather/
-├── index.html
-├── style.css
-├── script.js
+VibeWeather/
+├── api/
+│   └── weather.js          # weather API handler (fetches weather data)
 ├── assets/
 │   ├── images/
-│   │   └── background.mp4
-│   └── icons/
-│       ├── wind.png
-│       ├── uv.png
-│       ├── humidity.gif
-│       ├── run.gif
-│       ├── pollen2.gif
-│       ├── driving.png
-│       ├── air.png
-│       ├── visibility.png
-│       └── pressure.png
+│   │   ├── background.mp4
+│   │   ├── morning.mp4
+│   │   ├── afternoon.mp4
+│   │   ├── evening.mp4
+│   │   └── night.mp4
+│   ├── icons/
+│   │   ├── Strom.gif
+│   │   ├── air.png
+│   │   ├── blizzard.png
+│   │   ├── cloudy day.png
+│   │   ├── cloudy night.png
+│   │   ├── cloudy_overcast.png
+│   │   ├── driving.png
+│   │   ├── fog.png
+│   │   ├── hail.gif
+│   │   ├── humidity.gif
+│   │   ├── location.gif
+│   │   ├── moon.gif
+│   │   ├── pollen.gif
+│   │   ├── pollen2.gif
+│   │   ├── pressure.png
+│   │   ├── rain day.png
+│   │   ├── rain.png
+│   │   ├── run.gif
+│   │   ├── sleet.png
+│   │   ├── snow.png
+│   │   ├── sunny.png
+│   │   ├── thunderstorm.png
+│   │   ├── uv.png
+│   │   ├── visibility.png
+│   │   └── wind.png
+│   └── sound/
+│       ├── chime.mp3
+│       ├── click.mp3
+│       ├── night.mp3
+│       ├── rain.mp3
+│       ├── sunny.mp3
+│       └── winter.mp3
+├── .gitattributes
+├── index.html
+├── script.js
+├── style.css
 └── README.md
-```
 
 ---
 
