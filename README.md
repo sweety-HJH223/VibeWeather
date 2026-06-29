@@ -199,4 +199,4 @@ Full-stack developer. Building practical tools with clean UI and a focus on real
 
 ---
 
-> Built with curiosity, caffeine, and a love for Korean vocabulary 🇰🇷
+> Built with curiosity, caffeine, and a love for Korean vocabulary
