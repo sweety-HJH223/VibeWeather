@@ -137,6 +137,7 @@ const API_KEY = "your_openweathermap_api_key_here";
 ---
 
 ## Project Structure
+```
 VibeWeather/
 ├── api/
 │   └── weather.js          # weather API handler (fetches weather data)
@@ -185,7 +186,7 @@ VibeWeather/
 ├── script.js
 ├── style.css
 └── README.md
-
+```
 ---
 
 ## Built By
